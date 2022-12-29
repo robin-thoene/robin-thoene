@@ -16,4 +16,4 @@ I am a full stack developer, currently working at [DEVDEER](https://devdeer.com/
 
 - [Personal website](https://robin-thoene.com/)
 - [My fathers biking blog](https://harzerkurbelixe.de/)
-- [WYSIWYG Editor](https://editor.robin-thoene.com/)
+- [FluentUI WYSIWYG Editor](https://editor.robin-thoene.com/)
